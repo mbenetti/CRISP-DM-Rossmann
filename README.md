@@ -35,6 +35,6 @@ This notebook aim to apply the CRISP-DM methodology to a business problem. The c
 ***
 ## Binder notebook in the cloud
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master)
+Click in the folowing icon to open the notebook. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master)
 
 
