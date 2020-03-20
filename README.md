@@ -30,10 +30,6 @@ Usually, the notebook will pop up in the default browser. If not, in the command
 
 Click in the folowing icon to open the notebook.---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master) This will create a new instance of the notebook for you. Only need to upload the files you want to run.
 
-Finally, clicking the folowing link, all will be set up. Just open the notebook.
-
-https://hub.gke.mybinder.org/user/mbenetti-crisp-dm-rossmann-t936poaq/tree/work
-
 This notebook aim to apply the CRISP-DM methodology, to a business problem. The case presented is a sales forecast for the German Drugstore Rossmann. The forecast will be individual to every store and the future window will be of 6 weeks. 
 
 
