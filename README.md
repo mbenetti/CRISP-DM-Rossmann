@@ -5,7 +5,7 @@
 ![](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
 
 ## Option 1:
-You can download the jupyter notebook from this repositoty. The dataset can be download from:
+You can download the jupyter notebook from this repositoty. The dataset instead can be download from:
 
 https://www.kaggle.com/c/rossmann-store-sales/data
 
