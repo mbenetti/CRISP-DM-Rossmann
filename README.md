@@ -6,13 +6,12 @@
 
 The motivation behind this document is it relevance to real-world applications. Most data used for decision making day-to-day in industry is structured and/or in the form of a time-series. This document explore the end-to-end process of using CRISP-DM to analyses and revel insights from sales transactions.
 CRISP-DM stands for cross-industry process for data mining. It provides a structured approach to planning a data mining project. It is a robust and well-proven methodology. This model is an idealized sequence of events. In practice many of the tasks can be performed in a different order and it will often be necessary to backtrack to previous tasks and repeat certain actions.
-
+***
 ## Option 1:
 You can download the jupyter notebook from this repositoty. The dataset instead can be download from:
 
 https://www.kaggle.com/c/rossmann-store-sales/data
 
-***
 ## Option 2: Download docket image with Jupyter, the notebook and the data.
 The image contain a Jupyter notebook base image with the libraries and the data to run the jupyter notebook. The size of the base docker images is 625 MB, after the installation of all libraries necesary to run the analysis the final size is 2.8 GB.
 
@@ -28,14 +27,12 @@ Usually, the notebook will pop up in the default browser. If not, in the command
 
 *http://127.0.0.1:8888/?token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*
 
-***
 ## Option 3: Use Binder notebook in the cloud.
 
 Click in the folowing icon to open the notebook.---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master) This will create a new instance of the notebook for you. Only need to upload the files you want to run.
 
 This notebook aim to apply the CRISP-DM methodology, to a business problem. The case presented is a sales forecast for the German Drugstore Rossmann. The forecast will be individual to every store and the future window will be of 6 weeks. 
 
-***
 ## Option 4: Open a PDF version of the notebook.
 
 CRISP-DMRossmann.pdf
