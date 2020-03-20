@@ -4,10 +4,13 @@
 ### CRISP-DM with Rossmann time series forecasting
 ![](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
 
+## Option 1:
 You can download the jupyter notebook from this repositoty. The dataset can be download from:
 
 https://www.kaggle.com/c/rossmann-store-sales/data
 
+***
+## Option 2: Download docket image with Jupyter, the notebook and the data.
 The image contain a Jupyter notebook base image with the libraries and the data to run the jupyter notebook. The size of the docker images is 625 MB
 
 Download the image:
@@ -23,6 +26,11 @@ Usually, the notebook will pop up in the default browser. If not, in the command
 *http://127.0.0.1:8888/?token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*
 
 ***
+## Option 3: Uaw Binder notebook in the cloud.
+
+Click in the folowing icon to open the notebook.---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master)
+
+https://hub.gke.mybinder.org/user/mbenetti-crisp-dm-rossmann-hi2qd7g3/tree
 
 This notebook aim to apply the CRISP-DM methodology to a business problem. The case presented is a forecast of sales of the German Drugstore Rossmann. The forecast will be individual by store and with a window of 6 weeks in the future. 
 
@@ -33,8 +41,4 @@ This notebook aim to apply the CRISP-DM methodology to a business problem. The c
 </p>
 
 ***
-## Binder notebook in the cloud
-
-Click in the folowing icon to open the notebook. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master)
-
 
