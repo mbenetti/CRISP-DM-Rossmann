@@ -3,7 +3,7 @@
 ## CRISP-DM-Rossmann
 ### CRISP-DM for Rossmann time series forecasting
 
-<img align="center" width="850" height="300" src="https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png">
+<img align="center" width="850" height="350" src="https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png">
 
 
 The motivation behind this document is it relevance to real-world applications. Most data used for decision making day-to-day in industry is structured and/or in the form of a time-series. This document explore the end-to-end process of using CRISP-DM to analyses and revel insights from sales transactions.
@@ -43,6 +43,12 @@ Only a PDF viewer is need it. :)
 ## Option 5: Click in the notebook to open an read-only version.
 
 ***
+
+In Conclusion
+
+The CRISP-DM, even today, remains as a dependable method to develop data science solutions for enterprise problems. Its BI-first approach also enables better sourcing of insights and other such data knowledge.
+
+The flexible and iterative approach of the CRISP-DM also makes it a future-proof alternative for anyone looking to solve data science problems. Even as it is important to develop a unique method, it should also be kept in mind that using methods such as CRISP-DM bring an element of professionalism and uniformity to operational procedures.
 
 <p align="center">
   <img width="500" height="500" src="https://www.researchgate.net/profile/Klemen_Kenda/publication/320100474/figure/fig1/AS:614088057040898@1523421410342/Cross-Industry-Standard-Process-for-Data-Mining-CRISP-DM-12.png">
