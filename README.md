@@ -40,4 +40,10 @@ This notebook aim to apply the CRISP-DM methodology, to a business problem. The 
 
 ***
 
+## Option 4: Open de PDF version of the notebook.
+
+CRISP-DMRossmann.pdf
+
+Only a PDF viewer is need it. :)
+
 
