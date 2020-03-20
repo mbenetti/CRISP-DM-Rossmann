@@ -1,0 +1,11 @@
+pandas==0.25.3
+sklearn
+matplotlib
+seaborn
+squarify
+pandas-profiling
+pandas-profiling[notebook,html]
+line-profiler
+statsmodels
+plotly==4.5.4
+xgboost
