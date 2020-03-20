@@ -1,6 +1,6 @@
 <img align="right" width="300" height="100" src="https://www.rossmann.de/dam/jcr:0d0bb06a-8527-4d7c-ac70-7cb60e7d0007/ROSSMANN_Wort_Bild_Claim_Schutz_L_cmyk.2018-09-21-09-58-28.jpg">
 
-## CRISP-DM-Rossman
+## CRISP-DM-Rossmann
 ### CRISP-DM with Rossmann time series forecasting
 ![](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
 
