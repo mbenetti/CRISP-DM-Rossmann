@@ -1,9 +1,10 @@
+
 # CRISP-DM-Rossman
 CRISP-DM with Rossmann time series forecasting
 
 ### Download the image:
 
-docker push 25987908/crisp-dm_rossmann
+docker pull 25987908/crisp-dm_rossmann
 
 ### Quick start:
 
