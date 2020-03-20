@@ -18,7 +18,8 @@ Quick start:
 
 Usually, the notebook will pop up in the default browser. If not, in the command line you will get a link with a token to open the notebook, just copy and paste the entire address including the token.
 
-*http://127.0.0.1:8888/?token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*
+***http://127.0.0.1:8888/?token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX***
+
 ***
 
 This notebook aim to apply the CRISP-DM methodology to a business problem. The case presented is a forecast of sales of the German Drugstore Rossmann. The forecast will be individual by store and with a window of 6 weeks in the future. 
@@ -28,3 +29,9 @@ This notebook aim to apply the CRISP-DM methodology to a business problem. The c
 <p align="center">
   <img width="500" height="500" src="https://www.researchgate.net/profile/Klemen_Kenda/publication/320100474/figure/fig1/AS:614088057040898@1523421410342/Cross-Industry-Standard-Process-for-Data-Mining-CRISP-DM-12.png">
 </p>
+
+~~~
+## Binder notebook in the cloud
+
+https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/master
+
