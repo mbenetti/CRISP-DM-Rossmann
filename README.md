@@ -1,6 +1,13 @@
 ## CRISP-DM-Rossman
 
-CRISP-DM with Rossmann time series forecasting
+### CRISP-DM with Rossmann time series forecasting
+
+![](C:\Users\mbene\Documents\IT-Informatik\Rossman_Analysis\mydata\logo)
+
+
+The image contain a Jupyter notebook base image with the libraries and the data to run the jupyter notebook. The size of the docker images is 625 MB
+
+
 Download the image:
 
 `docker pull 25987908/crisp-dm_rossmann`
