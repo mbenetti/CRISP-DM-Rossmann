@@ -42,3 +42,4 @@ This notebook aim to apply the CRISP-DM methodology to a business problem. The c
 
 ***
 
+https://mybinder.org/v2/gh/mbenetti/CRISP-DM-Rossmann/ae5a27d4941b96a857aa6ab91a232aa066fed05d
