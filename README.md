@@ -2,11 +2,7 @@
 <img src="" src="https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png" width="100" height="100" />
 ### CRISP-DM with Rossmann time series forecasting
 
-![]()
-
 The image contain a Jupyter notebook base image with the libraries and the data to run the jupyter notebook. The size of the docker images is 625 MB
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 Download the image:
 
