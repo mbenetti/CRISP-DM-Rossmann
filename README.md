@@ -11,7 +11,7 @@ https://www.kaggle.com/c/rossmann-store-sales/data
 
 ***
 ## Option 2: Download docket image with Jupyter, the notebook and the data.
-The image contain a Jupyter notebook base image with the libraries and the data to run the jupyter notebook. The size of the docker images is 625 MB
+The image contain a Jupyter notebook base image with the libraries and the data to run the jupyter notebook. The size of the base docker images is 625 MB, after the installation of all libraries necesary to run the analysis the final size is 2.8 GB.
 
 Download the image:
 
