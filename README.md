@@ -2,7 +2,9 @@
 
 ## CRISP-DM-Rossmann
 ### CRISP-DM for Rossmann time series forecasting
-![](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
+
+<img align="center" width="850" height="300" src="https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png">
+
 
 The motivation behind this document is it relevance to real-world applications. Most data used for decision making day-to-day in industry is structured and/or in the form of a time-series. This document explore the end-to-end process of using CRISP-DM to analyses and revel insights from sales transactions.
 CRISP-DM stands for cross-industry process for data mining. It provides a structured approach to planning a data mining project. It is a robust and well-proven methodology. This model is an idealized sequence of events. In practice many of the tasks can be performed in a different order and it will often be necessary to backtrack to previous tasks and repeat certain actions.
