@@ -34,7 +34,7 @@ Finally, clicking the folowing link, all will be set up. Just open the notebook.
 
 https://hub.gke.mybinder.org/user/mbenetti-crisp-dm-rossmann-t936poaq/tree/work
 
-This notebook aim to apply the CRISP-DM methodology to a business problem. The case presented is a forecast of sales of the German Drugstore Rossmann. The forecast will be individual by store and with a window of 6 weeks in the future. 
+This notebook aim to apply the CRISP-DM methodology, to a business problem. The case presented is a sales forecast for the German Drugstore Rossmann. The forecast will be individual to every store and the future window will be of 6 weeks. 
 
 
 
