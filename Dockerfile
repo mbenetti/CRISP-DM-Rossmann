@@ -9,5 +9,3 @@ COPY requirementsc.txt /tmp/
 RUN conda install --yes --file /tmp/requirementsc.txt && \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
-
-COPY mydata/ /home/jovyan/work/
