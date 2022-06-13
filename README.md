@@ -6,7 +6,7 @@
 <img align="center" width="850" height="350" src="https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png">
 
 
-The motivation behind this document is its relevance to real-world applications. Most data used for decision-making day-to-day in the industry is structured and/or in the form of a time-series. This document explores the end-to-end process of using CRISP-DM to analyses and reveals insights from sales transactions.
+    The motivation behind this document is its relevance to real-world applications. Most data used for decision-making day-to-day in the industry is structured and/or in the form of a time-series. This document explores the end-to-end process of using CRISP-DM to analyses and reveals insights from sales transactions.
 CRISP-DM stands for the cross-industry process for data mining. This methodology provides a structured approach to planning a data mining project. It is a robust and well-proven methodology. This model is an idealized sequence of events. In practice, many of the tasks can be performed in a different order and it will often be necessary to backtrack to previous tasks and repeat certain actions
 .
 ***
