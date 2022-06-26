@@ -50,7 +50,7 @@ The CRISP-DM, even today, remains as a dependable method to develop data science
 The flexible and iterative approach of the CRISP-DM also makes it a future-proof alternative for anyone looking to solve data science problems. Even as it is important to develop a unique method, it should also be kept in mind that using methods such as CRISP-DM bring an element of professionalism and uniformity to operational procedures.
 
 <p align="center">
-  <img width="500" height="500" src="CRISP-DM.jpg">
+  <img width="500" height="500" src="CRISP-DM.png">
 </p>
 Summary:
 
